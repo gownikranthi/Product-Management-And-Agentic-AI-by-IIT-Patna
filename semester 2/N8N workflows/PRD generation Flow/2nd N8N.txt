@@ -1,0 +1,4 @@
+Document link - https://docs.google.com/document/d/1DMKvYlyFw1mtepgHX8Fz-ktLkMgp9rythsuux-a7ImY/edit?usp=sharing 
+Claude link for agent 1 - https://claude.ai/public/artifacts/899a2dc1-d4e2-4864-aefe-3b883748f882 
+Claude link for agent part 2 - https://claude.ai/public/artifacts/cdd1914d-8491-439f-aa32-cda8dd83efd3
+Google Sheet link - https://docs.google.com/spreadsheets/d/1bQ5HysCOLfhjTQqpQVabrvrEamWYyzswIQSNAhq4-g0/edit?usp=sharing
